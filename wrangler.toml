@@ -12,5 +12,3 @@ head_sampling_rate = 1
 [vars]
 USER_ID = "a084cf8b-5825-43a0-b202-7bf6752f70ee" # your uuid
 PROXY_IP = "178.128.80.43:443" # proxyip.fxxk.dedyn.io
-FALLBACK_SITE = "" # https://httpbin.org/status/404
-SHOW_URI = "true" # show vless uri in /UUID path
